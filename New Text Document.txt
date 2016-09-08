@@ -1,0 +1,8 @@
+Clean Code Pinciples:
+1)	The functionality of the unit should be specific to the requirement, i.e., each functionality should performed in seprate unit. 
+2)	Code to interface: Use interfaces, a new implementation can be written and modification to existing code can be avoided.
+3)	Divide the functionality into sub functions. This will help in unit testing the code for a specific functionality.
+4)	Use comment lines and proper naming conventions to make the code easily readable and understandable.
+5)	The code should have minimum dependencies. Like creating instance of the classes and initializing the variables should be done using methods. This provides loose coupling, maintainablity and extendedablity of the code.
+6)	Do not write redundant code.
+7)	Use design patterns and commonly used utility jar files to provide felixibility and accomplish task effieciently.
